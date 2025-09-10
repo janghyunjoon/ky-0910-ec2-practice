@@ -1,0 +1,26 @@
+{
+  "name": "ky-0910-ec2-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janghyunjoon/ky-0910-ec2-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janghyunjoon/ky-0910-ec2-practice/issues"
+  },
+  "homepage": "https://github.com/janghyunjoon/ky-0910-ec2-practice#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
